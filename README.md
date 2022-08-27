@@ -7,3 +7,6 @@ There are 4 pages in this dashboard with presenting with 4 different aspects to 
 - a comparison of different business objectives between New and Old customer in multiple dimensions with deeper granularity
 - an intergrated view for discovering potential time trends of Sales, Profit and No. of orders, in the date intervals of consecutive quarter, month, no. of week, and weekdays
 - a comprehensive view for monitoring the trend and distribution of the returned order and its sales amount
+
+
+# Welcome to visit on my Tableau public profile page: https://tabsoft.co/3CBQfSI
